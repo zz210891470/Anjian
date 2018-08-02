@@ -3,3 +3,4 @@
 新建分支dev
 
 new branch
+Creating a new branch is quick AND simple.
