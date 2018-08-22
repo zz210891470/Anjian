@@ -1,0 +1,36 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"730",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"width":"725",
+				"y":"7",
+				"fontSize":"38",
+				"id":"do_Label_1",
+				"type":"do_Label",
+				"height":"54"
+			},
+			{
+				"width":"728",
+				"y":"68",
+				"fontSize":"28",
+				"id":"do_Label_2",
+				"type":"do_Label",
+				"fontColor":"C0C0C0FF",
+				"height":"40"
+			},
+			{
+				"bgColor":"C0C0C0FF",
+				"width":"730",
+				"y":"112",
+				"id":"do_Label_3",
+				"type":"do_Label",
+				"height":"3"
+			}
+		],
+		"height":"120"
+	}
+}

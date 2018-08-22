@@ -1,0 +1,28 @@
+{
+	"RootView":{
+		"x":"0",
+		"width":"180",
+		"y":"0",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"x":"35",
+				"width":"110",
+				"y":"20",
+				"id":"do_ImageView_1",
+				"type":"do_ImageView",
+				"height":"110"
+			},
+			{
+				"textAlign":"center",
+				"width":"180",
+				"y":"139",
+				"fontSize":"35",
+				"id":"do_Label_1",
+				"type":"do_Label",
+				"height":"55"
+			}
+		],
+		"height":"213"
+	}
+}
